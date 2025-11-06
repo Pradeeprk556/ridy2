@@ -13,3 +13,4 @@ git commit -m "create dummy.txt"
 git branch
 git branch -a -- show available branch 
 git checkout subridy -- switch to new branch
+git merge subridy -- to merger then push it 
