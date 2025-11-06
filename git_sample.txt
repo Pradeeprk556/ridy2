@@ -12,3 +12,4 @@ git add dummy.txt or git add . (for multiple file)
 git commit -m "create dummy.txt"
 git branch
 git branch -a -- show available branch 
+git checkout subridy -- switch to new branch
