@@ -1,0 +1,13 @@
+git clone https://github.com/Pradeeprk556/ridy1.git -- to access GIT repository in VS 
+cd ridy1 -- move into folder 
+git status -- to check untracked files
+move new file - working folder - git folder - github same goes for modification and delete of the file 
+git add test2.txt -- moved to stagging area 
+git commit -m "create test2.txt" -- moved to git folder
+git push origin main -- moved to github
+git pull -- to pull changes from github
+to move from another folder to gitub
+git init
+git add dummy.txt or git add . (for multiple file)
+git commit -m "create dummy.txt"
+git branch
